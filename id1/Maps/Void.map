@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"wad" "C:/QuakeDev/wads/START.WAD"
+"wad" "C:/Users/Marc G/Documents/GitHub/A-day-in-hell-quake/wads/START.WAD"
 // brush 0
 {
 ( -224 -64 -16 ) ( -224 -63 -16 ) ( -224 -64 -15 ) bricka2_2 0 0 0 1 1
