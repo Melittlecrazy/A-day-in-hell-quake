@@ -413,18 +413,3 @@
 "classname" "item_rockets"
 "origin" "1024 -32 200"
 }
-// entity 28
-{
-"classname" "item_shells"
-"origin" "224 0 96"
-}
-// entity 29
-{
-"classname" "item_artifact_invisibility"
-"origin" "0 0 152"
-}
-// entity 30
-{
-"classname" "item_shells"
-"origin" "-256 -24 96"
-}
